@@ -9,7 +9,7 @@ FINAL PROJECT
 The project is mainly a staff management system for assigning tasks to employees. The main functions are as follows:
 1. Administrator login
 2. Employee data CRUD
-3 staff assignment
+3. Staff assignment
 4. Send email to staff to remind staff
 
 # Schema
