@@ -46,3 +46,5 @@ password | VARCHAR(45) | NOT NULL
 
 # Entity Relationship Diagram
 ![image](ERD.png)
+# Video Demonstration 
+https://youtu.be/_mqcn7__Mzs
